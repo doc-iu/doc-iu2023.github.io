@@ -3798,11 +3798,11 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:hover {
-				color: rgba(255, 255, 255, 0.55);
+				color: #000000;
 			}
 
 			#sidebar nav a.active {
-				color: #ffffff;
+				color: #000000;
 			}
 
 				#sidebar nav a.active:after {
